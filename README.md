@@ -1,3 +1,3 @@
 # OS-LAB:
-os-lab exp-2a:
-![screenshot](os.png)
+os-lab exp-3:
+![screenshot](Os1.png)
